@@ -13,6 +13,12 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "devDependencies": {
+    "@svgr/webpack": "^7.0.0"
+  },
+  "overrides": {
+    "@svgr/webpack": "$@svgr/webpack"
+  },
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
