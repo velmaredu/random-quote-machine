@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/velmaredu.github.io/random-quote-machine/static/css/main.f3090324.css",
+    "main.js": "/velmaredu.github.io/random-quote-machine/static/js/main.5b86669e.js",
+    "static/js/787.e4ae0a49.chunk.js": "/velmaredu.github.io/random-quote-machine/static/js/787.e4ae0a49.chunk.js",
+    "index.html": "/velmaredu.github.io/random-quote-machine/index.html",
+    "main.f3090324.css.map": "/velmaredu.github.io/random-quote-machine/static/css/main.f3090324.css.map",
+    "main.5b86669e.js.map": "/velmaredu.github.io/random-quote-machine/static/js/main.5b86669e.js.map",
+    "787.e4ae0a49.chunk.js.map": "/velmaredu.github.io/random-quote-machine/static/js/787.e4ae0a49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3090324.css",
+    "static/js/main.5b86669e.js"
+  ]
+}
